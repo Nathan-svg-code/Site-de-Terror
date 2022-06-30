@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background:#F8F8FF; 
+    font-size: 20px; 
+    margin: 0px;
+    color: white;
+    
+}
+
+h1{
+    color: #F8F8FF;
+    text-align: center;
+    background-color: #000000;
+    font-family: Ink free;
+    font-size: 30pt;
+    border: 6px solid #000000;
+    margin: 0%;
+    height: 100px;
+}
+
+ .ordem {
+   font-size: 28px;
+   margin: 0px;
+   color: #FF0000;
+   font-family: Ink free;
+   
+  
+        
+}
+   h2{
+    color: #FF0000;
+    text-align: left;
+    font-family: Ink free;
+    font-size: 20pt;
+    margin-left: 10px;
+}
+
+ .inicio{
+    text-align: left;
+    font-size: 28px;
+    vertical-align: top;
+    margin-top: 0px;
+    margin: 0px;
+    color: black;
+   
+}
+
+p{
+  font-size: 25px;
+  font-family: Ink free;
+  text-align: justify;
+  padding: 0em 50px 0px 20px;
+  margin-right: 30px;
+  margin-left: 10px;
+}
+
+.spam{
+ font-family: Ink free;   
+ font-size: 22px;
+ 
+}
+
+
